@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Sam Log</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Sam Log</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 22:37:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 23 Jun 2024 22:37:36 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>hey my name is sam and welcome to my humble site.&#xA;why? knowledge is less useful when it is not shared. i began taking more notes about my projects after i was setting up hyprland on a new linux installation and wanted to save how i did things so i could come back later and fix problems if i were to have any. less selfishly, i wanted to have the notes so that i could help other people, if they encounter issues similar to the ones i encountered.</description>
+    </item>
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 23 Jun 2024 22:13:25 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>Ok enough with the vulgarities, I think the new styles look better, don&amp;rsquo;t you?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam Log</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Sam Log</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 22:13:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 23 Jun 2024 22:13:25 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>Ok enough with the vulgarities, I think the new styles look better, don&amp;rsquo;t you?</description>
+    </item>
+  </channel>
+</rss>
