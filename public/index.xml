@@ -13,14 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 23 Jun 2024 22:37:36 -0700</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>hey my name is sam and welcome to my humble site.&#xA;why? knowledge is less useful when it is not shared. i began taking more notes about my projects after i was setting up hyprland on a new linux installation and wanted to save how i did things so i could come back later and fix problems if i were to have any. less selfishly, i wanted to have the notes so that i could help other people, if they encounter issues similar to the ones i encountered.</description>
-    </item>
-    <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Sun, 23 Jun 2024 22:13:25 -0700</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>Ok enough with the vulgarities, I think the new styles look better, don&amp;rsquo;t you?</description>
+      <description>hey my name is sam and welcome to my humble site.&#xA;why does this exist? knowledge is less useful when it is not shared. i began taking more notes about my projects after i was setting up hyprland on a new linux installation and wanted to save how i did things so i could come back later and fix problems if i were to have any. less selfishly, i wanted to have the notes so that i could help other people, if they encounter issues similar to the ones i encountered.</description>
     </item>
   </channel>
 </rss>
