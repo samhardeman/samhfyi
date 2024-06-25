@@ -1,15 +1,14 @@
-/* poppins-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Poppins';
+  font-family: 'Lora';
   font-style: normal;
   font-weight: 400;
-  src: url('https://github.com/samhardeman/samhfyi/raw/main/themes/sulla/static/fonts/poppins-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/fonts/lora-v35-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 body {
   color: #444;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Lora', serif;
   margin: auto;
   max-width: 650px;
   font-size: 18px;
@@ -29,20 +28,39 @@ header {
   margin-bottom: 1rem;
 }
 
+.SiteTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 footer {
-  border-top: 1px solid #222;
+  border-top: 1px solid #444;
   margin-top: 1rem;
 }
 
 h2 a {
   color: #444;
   text-decoration: none;
-  font-size: 25px;
-  box-shadow: inset 0 -0.35em #9496d3;
-  transition: box-shadow 0.1s;
+  box-shadow: inset 0 -0.3em #9496d3;
+  transition: box-shadow 0.05s;
   transition-timing-function: ease-in-out;
 }
 
 h2 a:hover {
-  box-shadow: inset 0 -1.2em #9496d3;
+  box-shadow: inset 0 -1.1em #9496d3;
+}
+
+nav {
+  margin-left: auto;
+}
+
+nav li {
+  display: inline;
+}
+
+nav li a {
+  text-decoration: none;
+  margin-right: 5px;
+  color: #444;
 }
