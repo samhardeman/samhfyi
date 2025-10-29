@@ -1,26 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Sam Log</title>
+    <title>Sam</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Sam Log</description>
+    <description>Recent content on Sam</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:04:28 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 01:55:06 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hellonotes</title>
-      <link>http://localhost:1313/notes/hellonotes/</link>
-      <pubDate>Tue, 25 Jun 2024 00:04:28 -0700</pubDate>
-      <guid>http://localhost:1313/notes/hellonotes/</guid>
-      <description>Does this work now? </description>
+      <title>chicken</title>
+      <link>http://localhost:1313/bits-and-pieces/chicken/</link>
+      <pubDate>Wed, 29 Oct 2025 01:55:06 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/chicken/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 23 Jun 2024 22:37:36 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>hey my name is sam and welcome to my humble site.&#xA;why does this exist? knowledge is less useful when it is not shared. i began taking more notes about my projects after i was setting up hyprland on a new linux installation and wanted to save how i did things so i could come back later and fix problems if i were to have any. less selfishly, i wanted to have the notes so that i could help other people, if they encounter issues similar to the ones i encountered.</description>
+      <title>There Really Is a Difference</title>
+      <link>http://localhost:1313/books/there-really-is-a-difference-showers/</link>
+      <pubDate>Tue, 28 Oct 2025 11:55:12 -0700</pubDate>
+      <guid>http://localhost:1313/books/there-really-is-a-difference-showers/</guid>
+      <description>&lt;p&gt;There Really Is a Difference by Renald E. Showers&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve entered into quite a few discussions on Dispensationalism. The people I discussed it with held their position on it (for or against) quite strongly yet most did not actually understand what Dispensationalism actually contains. The explanations I got on Dispensationalism were always either confusing or incomplete. I heard that Dispensationalists don&amp;rsquo;t believe in the Old Testament. I have heard that Dispensationalism is seeing a distinction between Israel and the Church. I have heard that Dispensationalism reads the Bible more literally. I have heard that Dispensationalism is about the different ways God relates to people throughout history. I was unsatisfied with these descriptions. I dug into Dispensationalism some more using resources from Reformed perspectives and the more I understood it the more I did not trust it. A comment on a particular YouTube video on Dispensationalism struck me, &amp;ldquo;I was a Dispensational until I tried to explain Dispensationalism.&amp;rdquo; And that basically summed up my thoughts on the idea. That it is a confusing system of understanding the Bible. That it sees the Bible in a disjointed way. That it reads things woodenly and misses proper understandings of passages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orthodoxy</title>
+      <link>http://localhost:1313/books/orthodoxy-chesterton/</link>
+      <pubDate>Tue, 28 Oct 2025 11:00:22 -0700</pubDate>
+      <guid>http://localhost:1313/books/orthodoxy-chesterton/</guid>
+      <description>&lt;p&gt;Orthodoxy by G.K. Chesterton&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Note</title>
+      <link>http://localhost:1313/notes/my-first-note/</link>
+      <pubDate>Tue, 28 Oct 2025 10:30:14 -0700</pubDate>
+      <guid>http://localhost:1313/notes/my-first-note/</guid>
+      <description>&lt;p&gt;hey just a lil test ya know&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bougainvillea</title>
+      <link>http://localhost:1313/bits-and-pieces/bougainvillea/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/bougainvillea/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>breakfast</title>
+      <link>http://localhost:1313/bits-and-pieces/breakfast/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/breakfast/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>car fire</title>
+      <link>http://localhost:1313/bits-and-pieces/car-fire/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/car-fire/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>crt</title>
+      <link>http://localhost:1313/bits-and-pieces/crt/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/crt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>human movement</title>
+      <link>http://localhost:1313/bits-and-pieces/human-movement/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/human-movement/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>launch</title>
+      <link>http://localhost:1313/bits-and-pieces/launch/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/launch/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>saguaro</title>
+      <link>http://localhost:1313/bits-and-pieces/saguaro/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/saguaro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

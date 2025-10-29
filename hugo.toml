@@ -1,4 +1,28 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://samh.fyi/'
 languageCode = 'en-us'
-title = 'Sam Log'
-theme = 'sulla'
+title = 'Sam'
+theme = 'paper'
+
+[params]
+  color = 'linen'                           # linen, wheat, gray, light
+  github = 'samhardeman'                 # github.com/YOUR_GITHUB_ID
+  name = 'Sam'
+  bio = 'goodreads: samuelsamuel'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Bits and Pieces'
+    pageRef = '/bits-and-pieces'
+    weight = 20
+  [[menus.main]]
+    name = 'Books'
+    pageRef = '/books'
+    weight = 30
+  [[menus.main]]
+    name = 'Notes'
+    pageRef = '/notes'
+    weight = 40

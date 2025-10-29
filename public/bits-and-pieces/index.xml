@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bits-and-Pieces on Sam</title>
+    <link>http://localhost:1313/bits-and-pieces/</link>
+    <description>Recent content in Bits-and-Pieces on Sam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Oct 2025 01:55:06 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/bits-and-pieces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chicken</title>
+      <link>http://localhost:1313/bits-and-pieces/chicken/</link>
+      <pubDate>Wed, 29 Oct 2025 01:55:06 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/chicken/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bougainvillea</title>
+      <link>http://localhost:1313/bits-and-pieces/bougainvillea/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/bougainvillea/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>breakfast</title>
+      <link>http://localhost:1313/bits-and-pieces/breakfast/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/breakfast/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>car fire</title>
+      <link>http://localhost:1313/bits-and-pieces/car-fire/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/car-fire/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>crt</title>
+      <link>http://localhost:1313/bits-and-pieces/crt/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/crt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>human movement</title>
+      <link>http://localhost:1313/bits-and-pieces/human-movement/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/human-movement/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>launch</title>
+      <link>http://localhost:1313/bits-and-pieces/launch/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/launch/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>saguaro</title>
+      <link>http://localhost:1313/bits-and-pieces/saguaro/</link>
+      <pubDate>Tue, 28 Oct 2025 10:24:57 -0700</pubDate>
+      <guid>http://localhost:1313/bits-and-pieces/saguaro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

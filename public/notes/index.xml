@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Sam</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on Sam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2025 10:30:14 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Note</title>
+      <link>http://localhost:1313/notes/my-first-note/</link>
+      <pubDate>Tue, 28 Oct 2025 10:30:14 -0700</pubDate>
+      <guid>http://localhost:1313/notes/my-first-note/</guid>
+      <description>&lt;p&gt;hey just a lil test ya know&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
