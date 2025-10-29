@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Sam'
 theme = 'paper'
 
+canonifyURLs = true
+
 [params]
   color = 'linen'                           # linen, wheat, gray, light
   github = 'samhardeman'                 # github.com/YOUR_GITHUB_ID
@@ -26,3 +28,4 @@ theme = 'paper'
     name = 'Notes'
     pageRef = '/notes'
     weight = 40
+    
