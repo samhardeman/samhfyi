@@ -1,15 +1,16 @@
 baseURL = 'https://samh.fyi/'
 languageCode = 'en-us'
-title = 'Sam'
+title = 'samh'
 theme = 'paper'
 
 canonifyURLs = true
 
 [params]
   color = 'linen'                           # linen, wheat, gray, light
-  github = 'samhardeman'                 # github.com/YOUR_GITHUB_ID
-  name = 'Sam'
-  bio = 'goodreads: samuelsamuel'
+  github = 'samhardeman'
+  bio = 'welcome!'
+
+  monoDarkIcon = true 
 
 [menus]
   [[menus.main]]
@@ -17,12 +18,12 @@ canonifyURLs = true
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Bits and Pieces'
-    pageRef = '/bits-and-pieces'
-    weight = 20
-  [[menus.main]]
     name = 'Books'
     pageRef = '/books'
+    weight = 20
+  [[menus.main]]
+    name = 'Bits and Pieces'
+    pageRef = '/bits-and-pieces'
     weight = 30
   [[menus.main]]
     name = 'Notes'

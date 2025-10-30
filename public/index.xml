@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam</title>
+    <title>samh</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Sam</description>
+    <description>Recent content on samh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Oct 2025 01:55:06 -0700</lastBuildDate>
@@ -28,13 +28,6 @@
       <pubDate>Tue, 28 Oct 2025 11:00:22 -0700</pubDate>
       <guid>http://localhost:1313/books/orthodoxy-chesterton/</guid>
       <description>&lt;p&gt;Orthodoxy by G.K. Chesterton&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Note</title>
-      <link>http://localhost:1313/notes/my-first-note/</link>
-      <pubDate>Tue, 28 Oct 2025 10:30:14 -0700</pubDate>
-      <guid>http://localhost:1313/notes/my-first-note/</guid>
-      <description>&lt;p&gt;hey just a lil test ya know&lt;/p&gt;</description>
     </item>
     <item>
       <title>bougainvillea</title>
